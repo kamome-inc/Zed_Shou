@@ -1,0 +1,2 @@
+def zero():
+    return "ZORRO!"
